@@ -87,6 +87,214 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+   /*--------------- Base Header & Footer styles ---------------*/
+header,
+footer {
+
+}
+    /*--------------- Header Styles ---------------*/
+
+header {
+
+}
+
+header img {
+
+}
+
+header .content-wrapper {
+
+}
+
+.header-divider {
+
+}
+
+nav {
+
+    }
+
+nav ul {
+
+}
+
+nav ul li {
+
+}
+
+nav ul li a {
+}
+
+     /*--------------- Mobile Main Styles ---------------*/
+
+      /*--------------- Hero Area ---------------*/
+.hero-area {
+
+}
+
+.hero-area .content-wrapper {
+
+}
+
+.hero-area .content-wrapper h1 {
+
+}
+
+      /*--------------- Form Styles ---------------*/
+aside {
+
+}
+
+aside .content-wrapper {
+}
+
+.form-description {
+
+}
+
+.form {
+
+}
+
+      /*--------------- Features Styles ---------------*/
+.features {
+
+}
+
+.features .content-wrapper {
+
+}
+
+.features article {
+
+}
+
+.features-items {
+
+}
+
+.features-item-description {
+
+}
+
+.fontawesome-icons {
+
+}
+
+article {
+
+}
+
+       /*--------------- Reviews Styles ---------------*/
+.reviews {
+
+}
+
+.reviews .content-wrapper {
+
+}
+
+.reviews article {
+
+}
+
+     /*--------------- About Page Styles ---------------*/
+
+      /*--------------- AP Mission Styles ---------------*/
+
+.mission {
+
+}
+
+.mission .content-wrapper {
+
+}
+
+.mission-content {
+
+}
+
+        /*--------------- AP Map Styles ---------------*/
+
+.map {
+
+}
+
+.map figure {
+
+}
+
+        /*--------------- AP Contact Styles ---------------*/
+
+.contact-section {
+
+}
+
+.contact-section .content-wrapper {
+
+}
+
+.contact-content {
+
+}
+
+.contact-content address {
+
+}
+
+          /*--------------- FAQ Page Styles ---------------*/
+
+.faq {
+
+}
+
+.faq .content-wrapper {
+
+}
+
+.faq-content {
+
+}
+
+
+
+     /*--------------- Footer Styles ---------------*/
+
+footer {
+
+}
+
+footer .content-wrapper {
+
+}
+
+.footer-content {
+
+}
+
+.contact {
+
+}
+
+address {
+
+}
+
+.social {
+
+}
+
+.social-icons {
+
+}
+
+footer a {
+
+}
+
+.copyright {
+
+}
 /* ==========================================================================
    Helper classes
    ========================================================================== */
